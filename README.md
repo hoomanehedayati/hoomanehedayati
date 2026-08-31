@@ -1,4 +1,4 @@
-## Hi there 👋
-my name is seyed alireza hedayati and I,m 21 years old living in finland and studying industrial information technology.
-mail= hooman84hedayati@gmail.com
+# Hi there 👋
+my name is seyed alireza hedayati and I amliving in finland, studying industrial information technology.
+you can contact me via this mail : hooman84hedayati@gmail.com
 
